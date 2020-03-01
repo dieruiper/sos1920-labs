@@ -1,0 +1,71 @@
+    1  cd /workspace/sos1920_labs; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/sos1920_labs; clear
+    4  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    5  cd /workspace/sos1920_labs; clear
+    6  echo "# sos1920-labs" >> README.md
+    7  git init
+    8  git add README.md
+    9  ls
+   10  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   11  cd /workspace/sos1920_labs; clear
+   12  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   13  cd /workspace/sos1920_labs; clear
+   14  s
+   15  ls
+   16  rm main.js
+   17  git add goorm.manifest
+   18  git commit -m "first commit"
+   19  git config --global user.email "you@example.com"
+   20  git commit -m "first commit"
+   21  cd /workspace/sos1920_labs; clear
+   22  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   23  cd /workspace/sos1920_labs; clear
+   24  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+   25  cd /workspace/sos1920_labs; clear
+   26  git commit -m "first commit"
+   27  git add goorm.manifest
+   28  git commit -m "first commit"
+   29  git pull
+   30  ls
+   31  git remote add origin https://github.com/dieruiper/sos1920-labs.git
+   32  git push -u origin master
+   33  S4lch1ch496
+   34  git push -u origin master
+   35  git checkout -b l04
+   36  cat
+   37  cat README.md
+   38  git add .
+   39  git commit -m "update del md"
+   40  git push
+   41  git push -u origin l04
+   42  git checkout master
+   43  node -v
+   44  npm -v
+   45  npm init
+   46  ls
+   47  touch index.js
+   48  node index.js
+   49  npm start
+   50  npm install -g npm
+   51  npm install cool-ascii-faces --save
+   52  npm start
+   53  git add .
+   54  git commit -m "first working version"
+   55  git oush
+   56  git push
+   57  npm install
+   58  npm start
+   59  rm -rf node_modules/
+   60  git add .
+   61  git commit -m "remove node_modules"
+   62  git push
+   63  touch .gitignore
+   64  git add .
+   65  git commit -m "gitignore"
+   66  git push
+   67  npm install
+   68  npm install express --save
+   69  npm start
+   70  history
+   71  history > history.txt
