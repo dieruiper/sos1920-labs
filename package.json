@@ -4,7 +4,7 @@
   "description": "This is the result of L04",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
+    "start": "node f01/time",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/dieruiper/sos1920-labs#readme",
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
   }
 }
