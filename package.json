@@ -4,7 +4,7 @@
   "description": "This is the result of L04",
   "main": "index.js",
   "scripts": {
-    "start": "node f01/time",
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
